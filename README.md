@@ -5,8 +5,8 @@
 This project provides a comprehensive database solution for managing a cinema chain's daily operations. It handles everything from branch logistics and movie scheduling to club member loyalty programs and food concessions sales.
 
 The system is designed to provide actionable business insights while maintaining high data integrity through advanced relational constraints.
-📊 Database Architecture
-Entity-Relationship Diagram (ERD)
+
+## Entity Relationship Diagram (ERD)
 
 The schema consists of 8 interconnected tables, optimized for relational consistency and efficient querying.
 
